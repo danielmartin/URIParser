@@ -10,5 +10,7 @@ To include URIParserLib, follow these steps:
 3. Use the C/C++ library template.
 4. Add the URIParserLib files to this new project.
 5. Add a dependency between the library target and the main application target to ensure proper compilation order.
+ 
+![Main Window](https://raw.github.com/danielmartin/URIParser/master/Screenshots/URIParser.png)
 
 
